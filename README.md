@@ -1,5 +1,4 @@
 # Python Code
-[Python Basic Notes](Python Basic.md) 
  
 # 1. Pandas 자료 구조 
 
